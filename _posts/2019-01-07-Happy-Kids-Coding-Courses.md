@@ -28,15 +28,15 @@ iMovie是一门培训学生学习制作电影视频的课程。学习完这门�
 * 第四节课：制作App Preview，并了解Swift Playgrounds编程学习，完成布置的作业
 * 第五节课：每个学生用5分钟做演示，邀请父母们参与
 
-Keynote keynote是apple的iWork套件之一，可以让你轻松制作绚丽夺目、令人难忘的演示文稿。利用实时协作功能，你的团队成员可通过 Mac、iPad 或者 iPhone 共同协作，而 PC 用户也可通过iCloud 版 iWork 一起参与。
+Keynote是apple的iWork套件之一，可以让你轻松制作绚丽夺目、令人难忘的演示文稿。利用实时协作功能，你的团队成员可通过 Mac、iPad 或者 iPhone 共同协作，而 PC 用户也可通过iCloud 版 iWork 一起参与。
 * 第一节课：介绍计算机软硬件和Keynote，制作简单的Prototype
 * 第二节课：制作静态图和动画效果
 * 第三节课：设置交互事件
 * 第四节课：完成布置的作业
 * 第五节课：每个学生用5分钟做演示，邀请父母们参与
 
-Weebly是一个免费的在线网站创建服务。它在浏览器中运行一个简单易用的网站建设程序。Weebly建设的网站上的元素是拖拽来完成建设的。Weebly可在Microsoft Windows、OS X和Linux上建设，Weebly可以自动生成每个网站的移动版本。
-* 第一节课：介绍互联网知识，注册Weebly和选择主题
+Wix是一个免费的在线网站创建服务。它在浏览器中运行一个简单易用的网站建设程序。Wix建设的网站上的元素是拖拽来完成建设的。W
+* 第一节课：介绍互联网知识，注册Wix和选择主题
 * 第二节课：选择不同组件建设网站
 * 第三节课：发布网站并关联域名
 * 第四节课：HTML/CSS/JavaScript学习
@@ -115,4 +115,6 @@ JUNIOR组和SENIOR组. JUNIOR组的学生限定与在学校只修过一个学分
 
 The Canadian Computing Competition (CCC) is a fun challenge for secondary school students with an interest in programming. It is an opportunity for students to test their ability in designing, understanding and implementing algorithms.
 ￼
+
+
 
