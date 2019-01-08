@@ -8,6 +8,12 @@ title: Happy Coding Kids
 * Intermediate：Scratch,  Python, JavaScript
 * Advanced：OOP, Algorithms
 
+### Prerequisites
+* [Laptop](https://www.amazon.ca/s/gp/search/ref=sr_nr_p_89_5?fst=as%3Aoff&rh=n%3A667823011%2Cn%3A2404990011%2Cn%3A677252011%2Ck%3Alaptop%2Cp_36%3A12035764011%2Cp_n_feature_five_browse-bin%3A7326865011%7C7326866011&keywords=laptop&ie=UTF8&qid=1546931643)(Mac or Windows) with Web Cam and Microphone
+* [Scratch](https://scratch.mit.edu/) registration for blocks coding
+* [Wix]() registration for website building
+* [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
+
 ### Beginner
 - iMovie: Video Making
 
@@ -18,13 +24,6 @@ title: Happy Coding Kids
 ### Intermediate
 - Scratch: Coding Blocks
 - Python: Basic, OOP, Data Analysis
-
-
-### Prerequisites
-* [Laptop](https://www.amazon.ca/s/gp/search/ref=sr_nr_p_89_5?fst=as%3Aoff&rh=n%3A667823011%2Cn%3A2404990011%2Cn%3A677252011%2Ck%3Alaptop%2Cp_36%3A12035764011%2Cp_n_feature_five_browse-bin%3A7326865011%7C7326866011&keywords=laptop&ie=UTF8&qid=1546931643)(Mac or Windows) with Web Cam and Microphone
-* [Scratch](https://scratch.mit.edu/) registration for blocks coding
-* [Wix]() registration for website building
-* [Anaconda](https://www.anaconda.com/download/#macos) download for Python coding
 
 **iMovie**
 * 1st Class:
