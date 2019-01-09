@@ -29,4 +29,4 @@ DeepLearning.ai 是由吴恩达在Coursera上推出的一个教授深度学习�
 [**深度学习课程笔记**]
 * [mbadry1/DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
 * [TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
-![tess-feffandes-dl-notes.png](../images/tess-feffandes-dl-notes.png.png)
+![tess-feffandes-dl-notes.png](../images/tess-feffandes-dl-notes.png)
