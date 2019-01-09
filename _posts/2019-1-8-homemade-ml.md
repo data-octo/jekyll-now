@@ -8,7 +8,7 @@ title: 深度学习-算法公式学习
 该代码库包含在Python中实现的流行机器学习算法的示例，其中包含数学背后的解释。每个算法都有交互式Jupyter Notebook演示，允许您使用训练数据，算法配置，并立即在浏览器中查看结果，图表和预测。在大多数情况下，解释是基于Andrew Ng的这个伟大的机器学习课程。
 此代码库的目的不是通过使用第三方库单行来实现机器学习算法，而是从头开始实践这些算法并更好地理解每个算法背后的数学。这就是为什么所有算法实现都被称为“自制”并且不打算用于生产环境的原因。
 
-<img src="https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png">
+![machine-learning-map.png](images/machine-learning-map.png)
 
 
 [**吴恩达机器学习课程**](https://www.coursera.org/learn/machine-learning)
